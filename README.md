@@ -1,2 +1,2 @@
-# BasicRallyGrid
-My first app with a Rally Grid
+# BasicGrid
+My first app with a Grid
